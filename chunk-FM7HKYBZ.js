@@ -1,0 +1,1 @@
+import{C as o,l as i}from"./chunk-EH7T4GJW.js";var f=(()=>{let t=class t{constructor(){this.activeLanguageCode=new o,this.isModalOpened=new o}};t.\u0275fac=function(n){return new(n||t)},t.\u0275prov=i({token:t,factory:t.\u0275fac,providedIn:"root"});let e=t;return e})();export{f as a};
