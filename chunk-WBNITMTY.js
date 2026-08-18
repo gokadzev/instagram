@@ -1,1 +1,0 @@
-import{l as s}from"./chunk-3CI6CRBI.js";var n=(()=>{let t=class t{constructor(){}setPost(r){this.post=r}getPost(){return this.post}};t.\u0275fac=function(e){return new(e||t)},t.\u0275prov=s({token:t,factory:t.\u0275fac,providedIn:"root"});let o=t;return o})();export{n as a};

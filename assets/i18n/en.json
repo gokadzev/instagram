@@ -50,5 +50,7 @@
     "Phone": "Phone",
     "Gender": "Gender",
     "Suggestions for you": "Suggestions for you",
-    "Loading more data...": "Loading more data..."
+    "Loading more data...": "Loading more data...",
+    "Loading...": "Loading...",
+    "Load more": "Load more"
 }
