@@ -1,1 +1,0 @@
-import{rt as b}from"./main-WWUQ7XON.js";var i=(()=>{class t{constructor(){this.post=null}setPost(o){this.post=o}getPost(){return this.post}static{this.ɵfac=function(s){return new(s||t)}}static{this.ɵprov=b({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{i as t};
