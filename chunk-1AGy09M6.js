@@ -1,0 +1,1 @@
+import{Jt as Zn,Zt as _i,ft as PI}from"./chunk-NPAS1Ayg.js";import{n as Xt}from"./main-72UHEOF3.js";var f=(()=>{class o{static{this.ɵfac=function(m){return new(m||o)}}static{this.ɵmod=_i({type:o})}static{this.ɵinj=Zn({imports:[PI,Xt]})}}return o})();export{f as PostModule};
